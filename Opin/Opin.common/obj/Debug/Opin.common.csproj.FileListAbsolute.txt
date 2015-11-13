@@ -1,0 +1,8 @@
+G:\demo\kalibrate.fuelmanagement\Opin.common\bin\Debug\AutoMapper.Net4.dll
+G:\demo\kalibrate.fuelmanagement\Opin.common\bin\Debug\Opin.common.dll
+G:\demo\kalibrate.fuelmanagement\Opin.common\bin\Debug\Opin.common.pdb
+G:\demo\kalibrate.fuelmanagement\Opin.common\bin\Debug\AutoMapper.dll
+G:\demo\kalibrate.fuelmanagement\Opin.common\bin\Debug\AutoMapper.xml
+G:\demo\kalibrate.fuelmanagement\Opin.common\obj\Debug\Opin.common.csprojResolveAssemblyReference.cache
+G:\demo\kalibrate.fuelmanagement\Opin.common\obj\Debug\Opin.common.dll
+G:\demo\kalibrate.fuelmanagement\Opin.common\obj\Debug\Opin.common.pdb

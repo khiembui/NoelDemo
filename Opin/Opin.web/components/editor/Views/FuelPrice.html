@@ -1,0 +1,21 @@
+﻿<!-- page-home.html -->
+<div class="container">
+    <div class="jumbotron">
+        <h1>Angular Animations Shenanigans</h1>
+        <h2>Home</h2>
+
+        <a href="#" class="btn btn-success btn-lg">About</a>
+        <a href="#contact" class="btn btn-danger btn-lg">Contact</a>
+        <button data-ng-click="AddItem()" class="btn btn-danger btn-lg">Add</button>
+    </div>
+    <div class="container bottom-fixed">
+        <div class="row">
+            <div ng-repeat="item in aboutdatas" class="col-md-3">
+                <img src="{{item.image}}" alt="Smiley face" height="100" width="100">
+                <h3><a href="{{item.link}}">{{item.title}}</a></h3>
+                <p>{{item.content}}</p>
+                <a href="{{item.link}}" class="btn btn-success btn-lg">Read more</a>
+            </div>
+        </div>
+    </div>
+</div>
